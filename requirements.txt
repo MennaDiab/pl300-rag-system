@@ -1,0 +1,10 @@
+pandas
+pypdf
+tqdm
+langchain-text-splitters
+numpy
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
+streamlit
