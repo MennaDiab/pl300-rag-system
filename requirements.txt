@@ -1,0 +1,9 @@
+pandas
+pypdf
+tqdm
+langchain-text-splitters
+numpy
+faiss-cpu
+sentence-transformers
+ollama
+streamlit
